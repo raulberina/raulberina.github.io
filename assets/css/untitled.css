@@ -1,0 +1,16 @@
+.portfolio-block.partners a img {
+  height: 80px !important;
+  max-width: none !important;
+  filter: none;
+  -webkit-filter: none;
+}
+
+.partners2 {
+  padding: 10px !important;
+}
+
+.portfolio-block.partners .partners2 img {
+  width: 100% !important;
+  filter: none !important;
+}
+
