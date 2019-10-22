@@ -2,7 +2,7 @@
   height: 80px !important;
   max-width: none !important;
   filter: none;
-  -webkit-filter: none;
+  -webkit-filter: none;  
 }
 
 .partners2 {
@@ -14,3 +14,12 @@
   filter: none !important;
 }
 
+.border-shadow {
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3); 
+	transition: box-shadow ease-in-out;
+	transition-duration: .4s;
+}
+
+.border-shadow:hover {
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3); 
+}
