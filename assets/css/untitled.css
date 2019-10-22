@@ -22,3 +22,11 @@
 .border-shadow:hover {
 	box-shadow: 0 0 15px 8px rgba(0,0,0,.15)!important;
 }
+
+.twitterx {
+  background-color: #1da1f2 !important;
+}
+
+.facebookx {
+  background-color: #4267b2 !important;
+}
