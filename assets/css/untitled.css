@@ -15,11 +15,10 @@
 }
 
 .border-shadow {
-	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3); 
-	transition: box-shadow ease-in-out;
-	transition-duration: .4s;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3) !important;
+  	transition: box-shadow 500ms !important;
 }
 
 .border-shadow:hover {
-	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3); 
+	box-shadow: 0 0 15px 8px rgba(0,0,0,.15)!important;
 }
